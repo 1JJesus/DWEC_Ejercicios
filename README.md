@@ -1,2 +1,2 @@
 # DWEC_Ejercicios
-Ejercicios
+Ejercicios de clase
